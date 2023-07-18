@@ -1,6 +1,6 @@
 # DeepDive-Audio-App
 
-### Hi there👋, Welcome to DeepDive!
+### Hi there👋, Welcome to DeepDive Audio App!
 #### One-stop app to listen to any type of Audio files in your Android mobile devices!
 ![Banner](https://github.com/MuzzammilShah/DeepDive-Audio-App/blob/95fa673e1a6bc4f0957d546fb7fdd64226c88025/SnapShots/navbar_cover.png)
 
